@@ -1,31 +1,23 @@
 <script setup>
 import HomePage from "./components/HomePage.vue";
-import HamburgerIcon from "./components/icons/IconHamburger.vue";
+import Menu from "./components/Menu.vue";
 </script>
 
 <template>
   <header>
-    <button>
-      <HamburgerIcon />
-    </button>
+    <Menu />
   </header>
-
   <main>
     <HomePage />
   </main>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 header {
   display: flex;
   justify-content: end;
   padding: 10px;
   line-height: 1.5;
-  button {
-    display: flex;
-    align-items: center;
-    cursor: pointer;
-  }
 }
 
 main {

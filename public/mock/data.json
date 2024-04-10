@@ -1,0 +1,180 @@
+[
+  {
+    "key": "64f",
+    "text": "好喝黑糖",
+    "children": [
+      {
+        "key": "445",
+        "text": "黑糖鮮奶",
+        "children": [
+          {
+            "key": "37a",
+            "text": "黑糖珍珠鮮奶"
+          },
+          {
+            "key": "feb",
+            "text": "黑糖芋圓鮮奶"
+          },
+          {
+            "key": "59c",
+            "text": "黑糖蒟蒻鮮奶"
+          }
+        ]
+      },
+      {
+        "key": "29e",
+        "text": "黑糖冬瓜",
+        "children": [
+          {
+            "key": "ac3",
+            "text": "黑糖冬瓜牛奶"
+          },
+          {
+            "key": "ca0",
+            "text": "黑糖冬瓜珍珠"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "6c3",
+    "text": "茶",
+    "children": [
+      {
+        "key": "5dc",
+        "text": "烏龍綠"
+      },
+      {
+        "key": "b5f",
+        "text": "綠茶"
+      },
+      {
+        "key": "b09",
+        "text": "紅茶"
+      },
+      {
+        "key": "887",
+        "text": "青茶"
+      }
+    ]
+  },
+  {
+    "key": "c81",
+    "text": "咖啡",
+    "children": [
+      {
+        "key": "e02",
+        "text": "黑咖啡",
+        "children": [
+          {
+            "key": "d20",
+            "text": "濃縮咖啡"
+          },
+          {
+            "key": "1f8",
+            "text": "美式咖啡"
+          }
+        ]
+      },
+      {
+        "key": "d7a",
+        "text": "牛奶咖啡123123123123123",
+        "children": [
+          {
+            "key": "c09",
+            "text": "拿鐵",
+            "children": [
+              {
+                "key": "db23",
+                "text": "黑糖拿鐵",
+                "children": [
+                  {
+                    "key": "db24",
+                    "text": "黑糖拿鐵1",
+                    "children": [
+                      {
+                        "key": "db25",
+                        "text": "黑糖拿鐵2",
+                        "children": [
+                          {
+                            "key": "db251",
+                            "text": "黑糖拿鐵17",
+                            "children": [
+                              {
+                                "key": "db2512",
+                                "text": "黑糖拿鐵18",
+                                "children": [
+                                  {
+                                    "key": "db25123",
+                                    "text": "黑糖拿鐵19",
+                                    "children": [
+                                      {
+                                        "key": "db253",
+                                        "text": "黑糖拿鐵20",
+                                        "children": [
+                                          {
+                                            "key": "db2544",
+                                            "text": "黑糖拿鐵21",
+                                            "children": [
+                                              {
+                                                "key": "db2555",
+                                                "text": "黑糖拿鐵22",
+                                                "children": [
+                                                  {
+                                                    "key": "db25551",
+                                                    "text": "黑糖拿鐵221",
+                                                    "children": [
+                                                      {
+                                                        "key": "db25552",
+                                                        "text": "黑糖拿鐵222",
+                                                        "children": [
+                                                          {
+                                                            "key": "db26663",
+                                                            "text": "黑糖拿鐵31233"
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "key": "9f6",
+                "text": "榛果拿鐵"
+              },
+              {
+                "key": "b61",
+                "text": "香草拿鐵"
+              }
+            ]
+          },
+          {
+            "key": "9ac",
+            "text": "卡布奇諾"
+          },
+          {
+            "key": "ce8",
+            "text": "摩卡"
+          }
+        ]
+      }
+    ]
+  }
+]
